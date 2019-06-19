@@ -7,7 +7,7 @@ package account;
 import java.util.Scanner;
 /**
  *
- * @author Sivagama
+ * @author Kashish Sachdeva
  */
 public class AccountTester {
     
